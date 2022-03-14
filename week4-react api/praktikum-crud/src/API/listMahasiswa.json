@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 2,
+      "NIM": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1647233462182,
+      "NIM": "1941720040",
+      "nama": "Naufal Yukafi Ridlo",
+      "alamat": "Jl Selogending, Kandangan, Senduro",
+      "hp": "085607287537",
+      "angkatan": "2019",
+      "status": "aktif"
+    }
+  ]
+}
