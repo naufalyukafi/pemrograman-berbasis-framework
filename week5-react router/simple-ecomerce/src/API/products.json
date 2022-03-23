@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "baju 1",
+      "description": "halo baju 1",
+      "label": "Kaos",
+      "harga": "40000",
+      "url": "https://i.picsum.photos/id/476/318/180.jpg?hmac=aow6yK-TyH6k7W1ehudu-toZvgnZJI4CYksRX7wT5do",
+      "cart": false
+    },
+    {
+      "id": 2,
+      "title": "baju 2",
+      "description": "baju 2 is very good",
+      "label": "Hem",
+      "harga": 3000000,
+      "url": "https://i.picsum.photos/id/768/318/180.jpg?hmac=ogz9GD7uUp2pjGWmOolO4E5myJzwclGl--Eu7jOACqM",
+      "cart": false
+    },
+    {
+      "id": 3,
+      "title": "baju 3",
+      "description": "baju 3 is very good",
+      "label": "Kaos",
+      "harga": 4000000,
+      "url": "https://i.picsum.photos/id/484/318/180.jpg?hmac=InuidNSzFraSgfb8vUT0KzbVWWNJDdggRi2TB-bHAzU",
+      "cart": false
+    },
+    {
+      "id": 5,
+      "title": "baju 5",
+      "description": "baju 5 is very good",
+      "label": "Hem",
+      "harga": 2000000,
+      "url": "https://i.picsum.photos/id/476/318/180.jpg?hmac=aow6yK-TyH6k7W1ehudu-toZvgnZJI4CYksRX7wT5do",
+      "cart": false
+    },
+    {
+      "id": 6,
+      "title": "baju 6",
+      "description": "halo baju 6",
+      "label": "Hem",
+      "harga": "60000",
+      "url": "https://i.picsum.photos/id/476/318/180.jpg?hmac=aow6yK-TyH6k7W1ehudu-toZvgnZJI4CYksRX7wT5do",
+      "cart": false
+    },
+    {
+      "id": 7,
+      "title": "baju 7",
+      "description": "halo baju 7",
+      "label": "Kaos",
+      "harga": "80000",
+      "url": "https://i.picsum.photos/id/476/318/180.jpg?hmac=aow6yK-TyH6k7W1ehudu-toZvgnZJI4CYksRX7wT5do",
+      "cart": false
+    }
+  ]
+}
