@@ -16,7 +16,7 @@
       "label": "Hem",
       "harga": 3000000,
       "url": "https://i.picsum.photos/id/768/318/180.jpg?hmac=ogz9GD7uUp2pjGWmOolO4E5myJzwclGl--Eu7jOACqM",
-      "cart": false
+      "cart": true
     },
     {
       "id": 3,

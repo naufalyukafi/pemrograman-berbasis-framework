@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Naufal Yukafi Ridlo",
+      "email": "naufalyukafi10@gmail.com",
+      "phone": "085607287537",
+      "photo": "https://i.picsum.photos/id/768/318/180.jpg?hmac=ogz9GD7uUp2pjGWmOolO4E5myJzwclGl--Eu7jOACqM"
+    },
+    {
+      "id": 2,
+      "name": "Paijo",
+      "email": "paijo10@gmail.com",
+      "phone": "085209432311",
+      "photo": "https://i.picsum.photos/id/476/318/180.jpg?hmac=aow6yK-TyH6k7W1ehudu-toZvgnZJI4CYksRX7wT5do"
+    }
+  ]
+}
