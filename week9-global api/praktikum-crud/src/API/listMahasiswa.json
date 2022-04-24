@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 2,
+      "NIM": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1647233462182,
+      "NIM": "1941720046",
+      "nama": "Naufal Eva Edit",
+      "alamat": "Jl Selogending",
+      "hp": "085607287537",
+      "angkatan": "2018",
+      "status": "lulus"
+    },
+    {
+      "id": 1650795182570,
+      "NIM": "1941720044",
+      "nama": "paijo",
+      "alamat": "Lumajang",
+      "hp": "083432",
+      "angkatan": "2022",
+      "status": "aktif"
+    },
+    {
+      "id": 1650795447008,
+      "NIM": "1941720049",
+      "nama": "Taliya",
+      "alamat": "Malang",
+      "hp": "085607287983",
+      "angkatan": "2021",
+      "status": "cuti"
+    }
+  ]
+}
