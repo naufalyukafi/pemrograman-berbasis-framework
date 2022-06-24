@@ -12,7 +12,7 @@ Student Contact is a simple admin website to perform the CRUD process<br /> <br 
     
     **Source Code**: https://github.com/naufalyukafi/pemrograman-berbasis-framework/tree/master/week9-global%20api/praktikum-crud 
     <br /><br />
-    **Demo Video Project:** <br /><br /> 
+    **Video Demo Project:** <br /><br /> 
         [![Manajement Kontak Mahasiswa](https://img.youtube.com/vi/V5IET6Jobpk/0.jpg)](https://youtu.be/V5IET6Jobpk "Video Demo Manajement Kontak Mahasiswa, click to watch")
 
     <br /> 
@@ -30,7 +30,7 @@ E Commerce Smartphone is a smartphone purchase site that features a cart and sim
     
     **Source Code**: https://github.com/naufalyukafi/commerce-smartphone  
     
-    **Demo Project** <br />
+    **Video Demo Project** <br />
     
     [![Manajement Kontak Mahasiswa](https://img.youtube.com/vi/5OeP0WC3Fcs/0.jpg)](https://youtu.be/5OeP0WC3Fcs "Video Demo Commerce Smartphone, click to watch")
 <br />
