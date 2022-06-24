@@ -1,5 +1,5 @@
 # Pemrograman Berbasis Framework
-Here are the projects I have made for assignments, UTS, and UAS. Previously to do the design process I used the FIGMA service to design the project.
+Here are the projects I have made for assignments, UTS, and UAS. Previously to do the design process I used [FIGMA](https://www.figma.com/) service to design my project.
 
 1. **Manajement Kontak Mahasiswa** <br />
 Student Contact is a simple admin website to perform the CRUD process<br /> <br />
@@ -30,8 +30,7 @@ E Commerce Smartphone is a smartphone purchase site that features a cart and sim
     
     **Source Code**: https://github.com/naufalyukafi/commerce-smartphone  
     
-    <br />
-    **Demo Project** <br /><br />
+    **Demo Project** <br />
     
     [![Manajement Kontak Mahasiswa](https://img.youtube.com/vi/5OeP0WC3Fcs/0.jpg)](https://youtu.be/5OeP0WC3Fcs "Video Demo Commerce Smartphone, click to watch")
 <br />
